@@ -6,7 +6,7 @@ You can download the data from http://kdd.ics.uci.edu/databases/reuters21578/reu
 
 I used the 20 most frequent classes for the classification. These are the classes which appear in 72\% of the 21,578 documents. 
 
-Applying the trained model on the testing data for the optimized architecture I got an F1-score of 0.82
+Applying the trained model on the testing data for the optimized architecture, I got an F1-score of 0.82
 
 
 ## Project

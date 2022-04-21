@@ -1,6 +1,6 @@
 # Reuters21578
 
-This project is about text classification using the Reuters21578 dataset. This is an example of multi-class multi-label classification problem, where also the classes are imbalanced.
+This project is about text classification using the Reuters21578 dataset. This is an example of a multi-class multi-label classification problem, where also the classes are imbalanced.
 
 You can download the data from http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
 
